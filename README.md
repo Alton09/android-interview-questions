@@ -100,18 +100,18 @@ Topics you should know in **Kotlin Coroutines** for Android Interview:
 
 Learn the above-mentioned from the following links:
 
-- [Master Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
-- [Suspending vs Blocking in Kotlin Coroutines](https://www.youtube.com/watch?v=V2lL_aJp17I)
-- [Launch vs Async in Kotlin Coroutines](https://www.youtube.com/watch?v=B4AfTPpCU5o)
-- [Dispatchers in Kotlin Coroutines](https://amitshekhar.me/blog/dispatchers-in-kotlin-coroutines)
-- [coroutineScope vs supervisorScope](https://amitshekhar.me/blog/coroutinescope-vs-supervisorscope)
-- [suspend function in Kotlin Coroutines](https://amitshekhar.me/blog/suspend-function-in-kotlin-coroutines)
-- [Kotlin withContext vs Async-await](https://amitshekhar.me/blog/kotlin-withcontext-vs-async-await)
-- [Callback to Coroutines in Kotlin](https://amitshekhar.me/blog/callback-to-coroutines-in-kotlin)
-- [Retrofit with Kotlin Coroutines](https://amitshekhar.me/blog/retrofit-with-kotlin-coroutines)
-- [Parallel Multiple Network Calls Using Kotlin Coroutines](https://amitshekhar.me/blog/parallel-multiple-network-calls-using-kotlin-coroutines)
-- [Room Database with Kotlin Coroutines](https://amitshekhar.me/blog/room-database-with-kotlin-coroutines)
-- [Unit Testing ViewModel with Kotlin Coroutines and LiveData](https://amitshekhar.me/blog/unit-testing-viewmodel-with-kotlin-coroutines-and-livedata)
+- [x] [Master Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
+- [ ] [Suspending vs Blocking in Kotlin Coroutines](https://www.youtube.com/watch?v=V2lL_aJp17I)
+- [ ] [Launch vs Async in Kotlin Coroutines](https://www.youtube.com/watch?v=B4AfTPpCU5o)
+- [ ] [Dispatchers in Kotlin Coroutines](https://amitshekhar.me/blog/dispatchers-in-kotlin-coroutines)
+- [ ] [coroutineScope vs supervisorScope](https://amitshekhar.me/blog/coroutinescope-vs-supervisorscope)
+- [ ] [suspend function in Kotlin Coroutines](https://amitshekhar.me/blog/suspend-function-in-kotlin-coroutines)
+- [ ] [Kotlin withContext vs Async-await](https://amitshekhar.me/blog/kotlin-withcontext-vs-async-await)
+- [ ] [Callback to Coroutines in Kotlin](https://amitshekhar.me/blog/callback-to-coroutines-in-kotlin)
+- [ ] [Retrofit with Kotlin Coroutines](https://amitshekhar.me/blog/retrofit-with-kotlin-coroutines)
+- [ ] [Parallel Multiple Network Calls Using Kotlin Coroutines](https://amitshekhar.me/blog/parallel-multiple-network-calls-using-kotlin-coroutines)
+- [ ] [Room Database with Kotlin Coroutines](https://amitshekhar.me/blog/room-database-with-kotlin-coroutines)
+- [ ] [Unit Testing ViewModel with Kotlin Coroutines and LiveData](https://amitshekhar.me/blog/unit-testing-viewmodel-with-kotlin-coroutines-and-livedata)
 
 ### Kotlin Flow API
 
@@ -245,17 +245,12 @@ Android Interview Questions and Answers:
 
 #### Base
 
-* **Why does an Android App lag?** - [Learn from here](https://amitshekhar.me/blog/android-app-lag)
-
-* **What is `Context`? How is it used?** - [Context In Android Application](https://amitshekhar.me/blog/context-in-android-application)
-
-* **Tell all the Android application components.** - [Learn from here](https://developer.android.com/guide/components/fundamentals.html#Components)
-
-* **What is the project structure of an Android Application?** - [Learn from here](https://developer.android.com/studio/projects)
-
-* **What is `AndroidManifest.xml`?** - [Learn from here](https://developer.android.com/guide/topics/manifest/manifest-intro)
-
-* **What is the `Application` class?**
+- [x] **Why does an Android App lag?** - [Learn from here](https://amitshekhar.me/blog/android-app-lag)
+- [x] **What is `Context`? How is it used?** - [Context In Android Application](https://amitshekhar.me/blog/context-in-android-application)
+- [ ] **Tell all the Android application components.** - [Learn from here](https://developer.android.com/guide/components/fundamentals.html#Components)
+- [ ] **What is the project structure of an Android Application?** - [Learn from here](https://developer.android.com/studio/projects)
+- [ ] **What is `AndroidManifest.xml`?** - [Learn from here](https://developer.android.com/guide/topics/manifest/manifest-intro)
+- [ ] **What is the `Application` class?**
     - The Application class in Android is the base class within an Android app that contains all other components such as activities and services. The Application class, or any subclass of the Application class, is instantiated before any other class when the process for your application/package is created.
 
 #### Activity and Fragment
