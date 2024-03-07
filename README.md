@@ -101,7 +101,7 @@ Topics you should know in **Kotlin Coroutines** for Android Interview:
 Learn the above-mentioned from the following links:
 
 - [x] [Master Kotlin Coroutines](https://amitshekhar.me/blog/kotlin-coroutines)
-- [ ] [Suspending vs Blocking in Kotlin Coroutines](https://www.youtube.com/watch?v=V2lL_aJp17I)
+- [x] [Suspending vs Blocking in Kotlin Coroutines](https://www.youtube.com/watch?v=V2lL_aJp17I)
 - [ ] [Launch vs Async in Kotlin Coroutines](https://www.youtube.com/watch?v=B4AfTPpCU5o)
 - [ ] [Dispatchers in Kotlin Coroutines](https://amitshekhar.me/blog/dispatchers-in-kotlin-coroutines)
 - [ ] [coroutineScope vs supervisorScope](https://amitshekhar.me/blog/coroutinescope-vs-supervisorscope)
