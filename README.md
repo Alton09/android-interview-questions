@@ -247,7 +247,7 @@ Android Interview Questions and Answers:
 
 - [x] **Why does an Android App lag?** - [Learn from here](https://amitshekhar.me/blog/android-app-lag)
 - [x] **What is `Context`? How is it used?** - [Context In Android Application](https://amitshekhar.me/blog/context-in-android-application)
-- [ ] **Tell all the Android application components.** - [Learn from here](https://developer.android.com/guide/components/fundamentals.html#Components)
+- [x] **Tell all the Android application components.** - [Learn from here](https://developer.android.com/guide/components/fundamentals.html#Components)
 - [ ] **What is the project structure of an Android Application?** - [Learn from here](https://developer.android.com/studio/projects)
 - [ ] **What is `AndroidManifest.xml`?** - [Learn from here](https://developer.android.com/guide/topics/manifest/manifest-intro)
 - [ ] **What is the `Application` class?**
